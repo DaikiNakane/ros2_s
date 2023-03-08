@@ -1,0 +1,43 @@
+[0.716s] Invoking command in '/home/nakane/ros2_s/src/mypkg': PYTHONPATH=/home/nakane/ros2_s/src/mypkg/build/mypkg/prefix_override:/home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/nakane/ros2_s/src/mypkg/build/mypkg/build install --record /home/nakane/ros2_s/src/mypkg/build/mypkg/install.log --single-version-externally-managed
+[0.996s] running egg_info
+[0.996s] creating build/mypkg/mypkg.egg-info
+[0.997s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[0.997s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.998s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[0.998s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[0.999s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[0.999s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.001s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.002s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.002s] running build
+[1.002s] running build_py
+[1.002s] creating /home/nakane/ros2_s/src/mypkg/build/mypkg/build
+[1.003s] creating /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib
+[1.003s] creating /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg
+[1.003s] copying mypkg/listener.py -> /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg
+[1.008s] copying mypkg/talker.py -> /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg
+[1.008s] copying mypkg/__init__.py -> /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg
+[1.009s] running install
+[1.009s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.010s]   warnings.warn(
+[1.010s] running install_lib
+[1.010s] creating /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.010s] copying /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg/listener.py -> /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.011s] copying /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg/talker.py -> /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.013s] copying /home/nakane/ros2_s/src/mypkg/build/mypkg/build/lib/mypkg/__init__.py -> /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.014s] byte-compiling /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg/listener.py to listener.cpython-310.pyc
+[1.015s] byte-compiling /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg/talker.py to talker.cpython-310.pyc
+[1.017s] byte-compiling /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg/__init__.py to __init__.cpython-310.pyc
+[1.017s] running install_data
+[1.018s] creating /home/nakane/ros2_s/src/mypkg/install/mypkg/share/ament_index
+[1.018s] creating /home/nakane/ros2_s/src/mypkg/install/mypkg/share/ament_index/resource_index
+[1.018s] creating /home/nakane/ros2_s/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[1.018s] copying resource/mypkg -> /home/nakane/ros2_s/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[1.019s] copying package.xml -> /home/nakane/ros2_s/src/mypkg/install/mypkg/share/mypkg
+[1.020s] running install_egg_info
+[1.021s] Copying build/mypkg/mypkg.egg-info to /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[1.034s] running install_scripts
+[1.052s] Installing listener script to /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/mypkg
+[1.053s] Installing talker script to /home/nakane/ros2_s/src/mypkg/install/mypkg/lib/mypkg
+[1.054s] writing list of installed files to '/home/nakane/ros2_s/src/mypkg/build/mypkg/install.log'
+[1.067s] Invoked command in '/home/nakane/ros2_s/src/mypkg' returned '0': PYTHONPATH=/home/nakane/ros2_s/src/mypkg/build/mypkg/prefix_override:/home/nakane/ros2_s/src/mypkg/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/nakane/ros2_s/src/mypkg/build/mypkg/build install --record /home/nakane/ros2_s/src/mypkg/build/mypkg/install.log --single-version-externally-managed
