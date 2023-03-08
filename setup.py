@@ -1,3 +1,6 @@
+# SPDX-FilecopyrightText: 2023 Daiki Nakane
+# SPDX-License-Identifier: GPL-3.0
+
 from setuptools import setup
 import os
 from glob import glob
