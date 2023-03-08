@@ -1,6 +1,6 @@
 #!/usr/bin/bash
-# SPDX-FilecopyrigthText: 2023 Daiki Nakane
-# SPDX-License-Identifier: GPL-3.0#!/bin/bash
+# SPDX-FilecopyrightText: 2023 Daiki Nakane
+# SPDX-License-Identifier: GPL-3.0
 
 dir=~
 [ "$1" != "" ] && dir="$1"   #引数があったら、そちらをホームに変える。
