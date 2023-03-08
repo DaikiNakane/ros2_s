@@ -1,5 +1,5 @@
 # SPDX-FilecopyrightText: 2023 Daiki Nakane
-#SPDX-License-Identifier: BSD-3-Claus#
+#SPDX-License-Identifier: BSD-3-Claus
 
 from setuptools import setup
 import os
