@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# SPDX-FilecopyrightText: 2023 Daiki Nakane
+# SPDX-License-Identifier: GPL-3.0
 import launch
 import launch.actions
 import launch.substitutions

@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# SPDX-FilecopyrightText: 2023 Daiki Nakane
+# SPDX-License-Identifier: GPL-3.0
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int16
